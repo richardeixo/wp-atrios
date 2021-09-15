@@ -9,3 +9,16 @@ include('componentes/slider.php');
 include('componentes/passos.php');
 ?>
 </section>
+
+
+<section id="sectionespecialidades">
+<?php
+include('componentes/especialidades.php');
+?>
+</section>
+
+<section id="sectioncardsespecialidades">
+<?php
+include('componentes/cards-especialidades.php');
+?>
+</section>

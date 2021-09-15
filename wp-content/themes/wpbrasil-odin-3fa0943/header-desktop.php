@@ -21,6 +21,11 @@
 	<?php if (is_page('Home')) { ?>
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory') ?>/custom-eixo/desktop/css/comp-slide.css">
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory') ?>/custom-eixo/desktop/css/comp-passos.css">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory') ?>/custom-eixo/desktop/css/comp-especialidades.css">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory') ?>/custom-eixo/desktop/css/comp-card-especialidades.css">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory') ?>/custom-eixo/desktop/css/comp-slide-depoimento.css">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory') ?>/custom-eixo/desktop/css/comp-encontre-mais.css">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory') ?>/custom-eixo/desktop/css/comp-aclinica.css">
 <?php } ?>
 	<?php wp_head(); ?>
 </head>
