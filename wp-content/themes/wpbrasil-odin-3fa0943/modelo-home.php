@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Modelo Home1
+ * Template Name: Modelo-home
  *
  * The template for displaying pages with sidebar.
  *
@@ -8,11 +8,16 @@
  * @since 2.2.0
  */
 
-get_header($device); 
+get_header($device);
+
 if ($device == "desktop") {
-	include('custom-eixo/desktop/home.php');
+	include('custom-eixo/desktop/modelo-home.php');
 }else{
-	include('custom-eixo/mobile/home-m.php');
+	include('custom-eixo/mobile/modelo-home.php');
 }
-get_footer($device); 
+
+get_footer($device);
 ?>
+
+
+
