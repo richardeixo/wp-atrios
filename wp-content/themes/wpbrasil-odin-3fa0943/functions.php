@@ -16,7 +16,7 @@
 /**
  * Sets content width.
  */
- 
+ //teste1
  $device = 0;
 $iphone = strpos($_SERVER['HTTP_USER_AGENT'],"iPhone");
 $android = strpos($_SERVER['HTTP_USER_AGENT'],"Android");

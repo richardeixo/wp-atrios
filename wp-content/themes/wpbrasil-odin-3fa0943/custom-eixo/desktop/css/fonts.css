@@ -1,0 +1,23 @@
+@font-face {
+  font-family: MarisaBold;
+  src: url(../../fonts/MarisaBold.ttf);
+}
+@font-face {
+  font-family: MarisaLight;
+  src: url(../../fonts/MarisaLight.ttf);
+}
+@font-face {
+  font-family: MarisaMedium;
+  src: url(../../fonts/MarisaMedium.ttf);
+}
+@font-face {
+  font-family: MarisaRegular;
+  src: url(../../fonts/MarisaRegular.ttf);
+}
+@font-face {
+  font-family: Futura;
+  src: url(../../fonts/futura-book-bt-22240.ttf);
+}
+h1, h2, h3, h4, h5, span, p, a, button, ul, li, strong{
+	font-family: MarisaRegular, sans-serif;
+}

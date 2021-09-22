@@ -1,0 +1,56 @@
+.top-bar{
+    background: #A91314;
+}
+.top-txt{
+    padding: 5px 0;
+    color: #fff;
+    font-family: 'Futura', sans-serif;
+}
+.horarios{
+    display: inline-flex;
+    align-items: flex-end;
+}
+.top-bar p{
+    margin: 0;
+}
+.contatos{
+    display: inline-flex;
+    align-items: end;
+    float: right;
+}
+.horarios strong, .horarios p, .contatos strong, .contatos p{
+    font-family: Futura, sans-serif;
+    padding: 0 5px;
+}
+.main-menu .container{
+    display: flex;
+}
+.menu-itens{
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+    justify-content: right;
+}
+.menu-itens ul{
+    display: inline-flex;
+    list-style: none;
+}
+.menu-itens ul li a{
+    color: #C59698;
+    text-decoration: none;
+    padding: 0 15px;
+    font-size: 22px;
+}
+.menu-itens ul li a:hover{
+    color: #A91314;
+}
+.especialidades{
+    background: #A91314;
+    border-radius: 20px;
+}
+.especialidades a{
+    color: #fff !important;
+}
+.especialidades a:hover{
+    color:#fff !important;
+}

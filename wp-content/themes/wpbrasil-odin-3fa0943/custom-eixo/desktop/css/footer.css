@@ -1,0 +1,73 @@
+.fale-conosco{
+    background: url(../imagens/fale-atrios.png);
+    background-size: cover;
+    color: #fff;
+}
+.fale-conosco h2{
+    text-align: center;
+    font-size: 50px;
+    padding: 50px 0;
+    font-weight: bold;
+}
+.info-fale{
+    display: flex;
+    padding-bottom: 70px;
+}
+.info-fale .txt-fale{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+}
+.info-fale .txt-fale p{
+    text-align: center;
+    width: 52%;
+    margin: auto;
+    font-family: 'Futura';
+    font-size: 23px;
+}
+.info-fale .txt-fale .fone-fale{
+    display: flex;
+    width: 80%;
+    flex-direction: row;
+    margin: auto;
+}
+.txt-fale .fone{
+    width: 100%;
+    display: block;
+    float: right;
+}
+.txt-fale .fone p{
+    width: 100%;
+    padding-right: 10px;
+    text-align: right;
+}
+.txt-fale .wpp{
+    width: 100%;
+}
+.txt-fale .wpp p{
+    width: 100%;
+    margin-left: 10px;
+    text-align: left;
+}
+.form-fale{
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 20px;
+    width: 34%;
+}
+.form-fale input, .form-fale textarea{
+    background: #A91314;
+    border: none;
+    margin-bottom: 13px;
+}
+.form-fale input::placeholder, .form-fale textarea::placeholder{
+    color: #fff;
+}
+.form-fale button{
+    width: 100%;
+    background: #A91314;
+    color: #fff;
+    font-size: 30px;
+}
