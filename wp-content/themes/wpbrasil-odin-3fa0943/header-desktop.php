@@ -18,6 +18,7 @@
 	<?php if ( ! get_option( 'site_icon' ) ) : ?>
 		<link href="<?php echo get_template_directory_uri(); ?>/assets/images/favicon.ico" rel="shortcut icon" />
 	<?php endif; ?>
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory') ?>/custom-eixo/desktop/css/fonte.css">
 	<?php if (is_page('Home')) { ?>
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory') ?>/custom-eixo/desktop/css/comp-slide.css">
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_directory') ?>/custom-eixo/desktop/css/comp-passos.css">

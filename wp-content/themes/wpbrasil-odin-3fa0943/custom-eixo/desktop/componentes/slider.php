@@ -2,7 +2,7 @@
 	<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-		<img src="https://images.wallpaperscraft.com/image/single/wild_cat_glance_animal_220700_1920x1080.jpg" class="d-block w-100" alt="...">
+		<img src="http://localhost/wp-atrios/wp-content/uploads/2021/09/Banner-Home-Site-Atrios-2.png" class="d-block w-100" alt="...">
 		</div>
 		<div class="carousel-item">
 		<img src="https://images.wallpaperscraft.com/image/single/maple_leaves_branches_220701_1920x1080.jpg" class="d-block w-100" alt="...">
