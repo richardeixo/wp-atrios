@@ -7,7 +7,7 @@
     border-radius: 80px;
 }
 .conteudo-card-especial img {
-    height: 70px;
+    height: 55px;
     width: 70px;
 }
 .imgesq img {
@@ -21,4 +21,10 @@
     color: white;
     border: none;
     border-radius: 80px;
+}
+.rowzbtnagenda {
+    text-align: center;
+}
+.btnagenda button {
+    margin-top: 25px;
 }

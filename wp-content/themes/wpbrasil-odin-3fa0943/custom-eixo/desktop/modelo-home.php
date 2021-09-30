@@ -22,3 +22,10 @@ include('componentes/especialidades.php');
 include('componentes/cards-especialidades.php');
 ?>
 </section>
+
+
+<section id="sectiondepoimentosslider">
+<?php
+include('componentes/slide-depoimento.php');
+?>
+</section>
