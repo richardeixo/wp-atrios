@@ -1,0 +1,65 @@
+.img-banner{
+    background: url(../imagens/corpo-atrios.png);
+    background-size: cover;
+}
+.banner h1{
+    font-family: 'Futura';
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+    font-size: 50px;
+}
+.card-corpo{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 20px 0;
+}
+.img-corpo{
+    text-align: center;
+}
+.img-corpo img{
+    width: 79%;
+}
+.txt-corpo h2{
+    font-family: 'Futura';
+    color: #A91314;
+    font-weight: bold;
+    font-size: 25px;
+}
+.especialidade{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.especialidade .esquerda{
+    margin-bottom: 10px;
+}
+.especialidade p {
+    font-family: 'Futura';
+    margin-bottom: 3px;
+}
+.especialidade strong {
+    font-family: 'Futura';
+}
+.txt-corpo ul {
+    padding-left: 18px;
+}
+.txt-corpo ul li {
+    font-family: 'Futura';
+}
+.btn-agendec{
+    text-align: center;
+    padding: 50px 0;
+}
+.btn-agendec a {
+    background: #A91314;
+    padding: 10px 30px;
+    font-size: 30px;
+    border-radius: 30px;
+    color: #FFF;
+    text-decoration: none;
+}
+.corpo .container{
+    padding-bottom: 100px;
+}

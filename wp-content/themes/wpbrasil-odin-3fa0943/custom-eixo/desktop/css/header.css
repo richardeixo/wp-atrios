@@ -24,16 +24,20 @@
 }
 .main-menu .container{
     display: flex;
+    height: 120px;
+    align-items: center;
 }
 .menu-itens{
     display: inline-flex;
     align-items: center;
     width: 100%;
     justify-content: right;
+    height: 100%;
 }
 .menu-itens ul{
     display: inline-flex;
     list-style: none;
+    margin: 0;
 }
 .menu-itens ul li a{
     color: #C59698;
