@@ -1,0 +1,94 @@
+.img-banner{
+    background: linear-gradient(to right bottom, rgb(0,0,0, 0.5), rgb(0,0,0, 0.5)), url(../imagens/card-single.png);
+    background-size: cover;
+    background-position: center;
+}
+.banner h1{
+    font-family: 'Futura';
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+    font-size: 50px;
+}
+.txt-single .audt{
+    font-family: 'Futura';
+    margin: 0;
+    line-height: 1;
+}
+.txt-single h2{
+    font-family: 'Futura';
+    font-weight: 600;
+}
+.txt-single .cat-single {
+    font-family: 'Futura';
+    font-weight: bold;
+    padding: 10px 0;
+}
+.txt-single p, .txt-single ul li, .txt-single h3 {
+    font-family: 'Futura';
+}
+.txt-single p, .txt-single ul li {
+    font-size: 17px;
+}
+.txt-single a{
+    background: #A91314;
+    color: #FFF;
+    border-radius: 20px;
+    padding: 7px 41px;
+    font-family: 'Futura';
+    text-decoration: none;
+    font-weight: bold;
+}
+.conteudo-blog{
+    display: flex;
+    padding: 100px 0;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.txt-blog{
+    box-shadow: 0px 3px 6px #00000029;
+    padding: 20px;
+    height: 250px;
+}
+.txt-blog h3{
+    font-family: 'Futura';
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 17px;
+}
+.txt-blog p {
+    font-family: 'Futura';
+    color: #9A9A9A;
+    margin: 0;
+    line-height: 1;
+}
+.txt-blog .cat-blog {
+    padding: 17px 0;
+    color: #000;
+    font-weight: 600;
+}
+.txt-blog a{
+    background: #A91314;
+    color: #FFF;
+    text-decoration: none;
+    padding: 3px 15px;
+    font-family: 'Futura';
+}
+.card-blog{
+    width: 32%;
+    background: #FFF;
+}
+.card-blog img{
+    width: 100%;
+}
+.relacionados{
+    background: #E6E6E6;
+}
+.relacionadosh h2{
+    font-family: 'Futura';
+    color: #989898;
+}
+.relacionadosh{
+    padding: 60px 0 25px 0;
+    text-align: center;
+}

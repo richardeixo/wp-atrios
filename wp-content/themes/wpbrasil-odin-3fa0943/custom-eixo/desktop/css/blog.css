@@ -1,0 +1,80 @@
+.img-banner{
+    background: url(../imagens/blog-atrios.png);
+    background-size: cover;
+}
+.banner h1{
+    font-family: 'Futura';
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+    font-size: 50px;
+}
+.search{
+    display: inline-flex;
+    width: 100%;
+}
+.search input{
+    border: 1px solid #A91314;
+    width: 100%;
+    border-radius: 16px;
+    padding: 6px 20px;
+    color: #A91314;
+}
+.search input::placeholder{
+    color: #A91314;
+    font-weight: 500;
+}
+.search a{
+    background: #A91314;
+    padding: 10px 25px;
+    border-radius: 14px;
+    position: relative;
+    right: 21px;
+}
+.search a img{
+    width: 21px;
+}
+.blog{
+    padding: 60px 0;
+}
+.conteudo-blog{
+    display: flex;
+    padding: 100px 0;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.txt-blog{
+    box-shadow: 0px 3px 6px #00000029;
+    padding: 20px;
+    height: 250px;
+}
+.txt-blog h3{
+    font-family: 'Futura';
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 17px;
+}
+.txt-blog p {
+    font-family: 'Futura';
+    color: #9A9A9A;
+    margin: 0;
+    line-height: 1;
+}
+.txt-blog .cat-blog {
+    padding: 17px 0;
+    color: #000;
+    font-weight: 600;
+}
+.txt-blog a{
+    background: #A91314;
+    color: #FFF;
+    text-decoration: none;
+    padding: 3px 15px;
+    font-family: 'Futura';
+}
+.card-blog{
+    width: 32%;
+}
+.card-blog img{
+    width: 100%;
+}
